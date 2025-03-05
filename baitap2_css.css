@@ -1,0 +1,27 @@
+.title{
+font-family:'Times New Roman', Times, serif;
+font-weight:bold;
+color:#00879E;
+
+}
+.phude{
+color:#00879E;
+text-transform:uppercase;
+}
+.tieudephu{
+color:#00879E;
+text-transform:capitalize;
+font-family:'Times New Roman', Times, serif;
+}
+.tacgia{
+text-align:right;
+font-style:italic;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.hightlight{
+    color:#00879E;
+}
+.noidung{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
